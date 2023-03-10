@@ -8,6 +8,12 @@
 
   ## TASK 1
 
-     - command id un
+     - command whoami
 
      show the current user
+
+  ## TASK 2
+
+     - command groups
+     
+      show user groups
