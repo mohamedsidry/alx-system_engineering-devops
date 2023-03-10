@@ -45,6 +45,6 @@
   ## TASK 6
 
 
-     - command chmod u+x,g+x,0+r hello
+     - command chmod 754 hello
 
      add execute permission to user and group and add read permission to other
