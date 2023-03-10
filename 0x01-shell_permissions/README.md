@@ -83,7 +83,14 @@
   ## TASK 11
 
 
-     - command chmod -R +X
+     - command chmod -R +x .
 
      add execute permission to all subdir of current folder to user and group and others
+
+
+  ## TASK 12
+
+     - command mkdir -m 751 my_dir
+
+     create a dir with drwxr-x--x permission
 
