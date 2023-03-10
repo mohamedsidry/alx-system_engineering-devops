@@ -72,3 +72,11 @@
      set mode to -rwxr-x-wx
 
 
+  ## TASK 10
+
+
+     - command chmod reference=olleh hello
+
+     set permissions to olleh permissions
+
+
