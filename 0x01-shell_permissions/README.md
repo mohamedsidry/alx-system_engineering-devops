@@ -75,8 +75,15 @@
   ## TASK 10
 
 
-     - command chmod reference=olleh hello
+     - command chmod --reference=olleh hello
 
      set permissions to olleh permissions
 
+
+  ## TASK 11
+
+
+     - command chmod -R +X
+
+     add execute permission to all subdir of current folder to user and group and others
 
