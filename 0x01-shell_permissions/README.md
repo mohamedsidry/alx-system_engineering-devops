@@ -8,6 +8,6 @@
 
   ## TASK 1
 
-     - command whoami
+     - command id un
 
      show the current user
