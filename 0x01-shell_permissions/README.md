@@ -109,8 +109,8 @@
   command chown vincent:staff *
 
   change owner to vincent and groupowner of all subfiles to staff
+  
 
-
-
+  hope it works hahahahah
 
   
