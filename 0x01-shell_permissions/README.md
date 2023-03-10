@@ -94,3 +94,10 @@
 
      create a dir with drwxr-x--x permission
 
+
+  ## TASK 13
+
+
+     - command chgrp school hello
+
+     change group of file 
