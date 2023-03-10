@@ -100,4 +100,17 @@
 
      - command chgrp school hello
 
-     change group of file 
+     change group of file
+
+
+# ADVANCED Tasks
+
+
+  command chown vincent:staff *
+
+  change owner to vincent and groupowner of all subfiles to staff
+
+
+
+
+  
