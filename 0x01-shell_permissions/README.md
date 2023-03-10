@@ -40,3 +40,11 @@
      - command chmod u+x hello (or chmod 764 hello)
 
      add execute permission to user
+
+
+  ## TASK 6
+
+
+     - command chmod u+x,g+x,0+r hello
+
+     add execute permission to user and group and add read permission to other
