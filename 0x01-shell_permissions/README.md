@@ -64,3 +64,11 @@
 
      add all permission to others only
 
+  ## TASK 9
+
+
+     - command chmod 753 hello
+
+     set mode to -rwxr-x-wx
+
+
