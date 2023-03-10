@@ -32,3 +32,11 @@
      - command touch filename
 
      create file with the given name
+
+
+  ## TASK 5
+
+
+     - command chmod u+x hello (or chmod 764 hello)
+
+     add execute permission to user
