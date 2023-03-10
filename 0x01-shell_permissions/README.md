@@ -17,3 +17,11 @@
      - command groups
      
       show user groups
+
+
+  ## TASK 3
+
+
+     - command sudo chown oldowner newowner
+
+     change owner of file/dir
