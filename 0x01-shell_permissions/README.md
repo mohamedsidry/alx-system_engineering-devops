@@ -25,3 +25,10 @@
      - command sudo chown oldowner newowner
 
      change owner of file/dir
+
+  ## TASK 4
+
+
+     - command touch filename
+
+     create file with the given name
