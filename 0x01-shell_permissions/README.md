@@ -48,3 +48,11 @@
      - command chmod 754 hello
 
      add execute permission to user and group and add read permission to other
+
+
+  ## TASK 7
+
+     - commnd chmod 775 hello
+     
+     add execute permission to user and group and add read permission to other
+
