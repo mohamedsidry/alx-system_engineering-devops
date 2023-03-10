@@ -52,7 +52,15 @@
 
   ## TASK 7
 
-     - commnd chmod 775 hello
+     - commnd chmod a+x hello (chmod 775 hello) 
      
-     add execute permission to user and group and add read permission to other
+     add execute permission to all
+
+
+  ## TASK 8
+
+
+     - command chmod 007 hello
+
+     add all permission to others only
 
