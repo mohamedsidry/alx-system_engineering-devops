@@ -12,5 +12,5 @@ display content of passwd and hosts files .
 display the last 10 lines of passwd file .
 -[x] cat /etc/passwd | head
 display the first 10 lines of file.
--[] cat iacta | grep "The die is cast"
+-[] cat iacta | grep Suetonius
 display line with specific words.
