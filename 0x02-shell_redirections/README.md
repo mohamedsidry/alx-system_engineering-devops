@@ -10,5 +10,7 @@ display content of passwd file .
 display content of passwd and hosts files .
 -[x] cat /etc/passwd | tail -n 10
 display the last 10 lines of passwd file .
--[] cat /etc/passwd | head
+-[x] cat /etc/passwd | head
 display the first 10 lines of file.
+-[] cat iacta | grep "The die is cast"
+display line with specific words.
