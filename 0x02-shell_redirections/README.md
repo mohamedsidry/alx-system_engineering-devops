@@ -8,5 +8,7 @@ backslash ignore the character after from interprated as special character.
 display content of passwd file .
 -[x] cat /etc/passwd /etc/hosts
 display content of passwd and hosts files .
--[] cat /etc/passwd | tail -n 10
+-[x] cat /etc/passwd | tail -n 10
 display the last 10 lines of passwd file .
+-[] cat /etc/passwd | head
+display the first 10 lines of file.
