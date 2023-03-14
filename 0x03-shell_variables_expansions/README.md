@@ -22,9 +22,14 @@ Create a script that lists all local variables and environment variables, and fu
 create a local variable called BEST .
 -export BEST="School"
 create a global variable called BEST .
+
 - echo $(($TRUEKNOWLEDGE + 128))
 add value in TRUEKNOWLEDGE variable  to 128  .
 - echo $(($POWER/$DIVIDE))
 display result of divide power var on divide var .
 - echo $(($BREATH**LOVE))
 display result of var BREATH in power of  LOVE var .
+
+- echo "$((2#$BINARY))"
+converts a number from base 2 to base 10.
+
