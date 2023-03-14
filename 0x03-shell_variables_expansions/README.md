@@ -20,3 +20,5 @@ Create a script that lists all local variables and environment variables, and fu
 
 - BEST="School"
 create a local variable called BEST .
+-export BEST="School"
+create a global variable called BEST .
