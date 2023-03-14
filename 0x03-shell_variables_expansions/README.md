@@ -24,3 +24,5 @@ create a local variable called BEST .
 create a global variable called BEST .
 - echo $(($TRUEKNOWLEDGE + 128))
 add value in TRUEKNOWLEDGE variable  to 128  .
+- echo $(($POWER/$DIVIDE))
+display result of divide power var on divide var .
