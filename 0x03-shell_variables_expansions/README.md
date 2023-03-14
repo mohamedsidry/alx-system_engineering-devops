@@ -7,4 +7,6 @@ create alias .
 
 - echo "hello $USER"
 say hallo to user.
+- export PATH=$PATH:/action
+The path to success is to take massive, determined action
 
