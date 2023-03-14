@@ -5,3 +5,6 @@
 - alias ls="rm *"
 create alias .
 
+- echo "hello $USER"
+say hallo to user.
+
