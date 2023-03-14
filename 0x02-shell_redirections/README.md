@@ -22,5 +22,7 @@ duplicate the last line of file.
 delete all regular js files .
 -[x] find . -type d -not -name '.' | wc -l
 count all dirs and subdir of working dir .
--[] ls -f1 | head -n 10
+-[x] ls -f1 | head -n 10
 display the newest 10 file in working dir .
+-[] sort | uniq -u
+uniq and soted .
