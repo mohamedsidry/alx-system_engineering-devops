@@ -18,3 +18,5 @@ print global variables .
 - set
 Create a script that lists all local variables and environment variables, and functions.
 
+- BEST="School"
+create a local variable called BEST .
