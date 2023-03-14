@@ -30,8 +30,9 @@ uniq and soted .
 display lines cntaining root .
 -[x] cat /etc/passwd | grep bin | wc -l
 diplay number of lines containing the word bin .
--[] grep -i "root" -A 3 /etc/passwd
+-[x] grep -i "root" -A 3 /etc/passwd
 what is next .
--[] grep -v "root" /etc/passwd
+-[x] grep -v "root" /etc/passwd
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
-
+-[] grep -i '^[a-z]'/etc/ssh/sshd_config
+letters only please
