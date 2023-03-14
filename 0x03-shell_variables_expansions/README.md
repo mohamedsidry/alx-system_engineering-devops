@@ -26,3 +26,5 @@ create a global variable called BEST .
 add value in TRUEKNOWLEDGE variable  to 128  .
 - echo $(($POWER/$DIVIDE))
 display result of divide power var on divide var .
+- echo $(($BREATH**LOVE))
+display result of var BREATH in power of  LOVE var .
