@@ -15,7 +15,8 @@ display the first 10 lines of file.
 -[0] head -3 iacta | tail -n 1
 display the 3rd line in iacta file.
 -[x] ls -la > ls_cwd_content
-overwrite command to file
--[] tail -n 1 iacta >> iacta
-duplicate the last line of file
-
+overwrite command to file.
+-[x] tail -n 1 iacta >> iacta
+duplicate the last line of file.
+-[] find . -type f -name "*.js" -delete
+delete all regular js files .
