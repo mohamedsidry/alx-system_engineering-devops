@@ -24,5 +24,7 @@ delete all regular js files .
 count all dirs and subdir of working dir .
 -[x] ls -f1 | head -n 10
 display the newest 10 file in working dir .
--[] sort | uniq -u
+-[x] sort | uniq -u
 uniq and soted .
+-[] cat /etc/passwd | grep root
+display lines cntaining root .
