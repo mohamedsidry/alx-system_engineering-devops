@@ -14,5 +14,8 @@ display the last 10 lines of passwd file .
 display the first 10 lines of file.
 -[0] head -3 iacta | tail -n 1
 display the 3rd line in iacta file.
--[] ls -la > ls_cwd_content
+-[x] ls -la > ls_cwd_content
 overwrite command to file
+-[] tail -n 1 iacta >> iacta
+duplicate the last line of file
+
