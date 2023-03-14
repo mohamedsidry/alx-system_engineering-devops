@@ -18,5 +18,7 @@ display the 3rd line in iacta file.
 overwrite command to file.
 -[x] tail -n 1 iacta >> iacta
 duplicate the last line of file.
--[] find . -type f -name "*.js" -delete
+-[x] find . -type f -name "*.js" -delete
 delete all regular js files .
+-[] find . -type d -not -name '.' | wc -l
+count all dirs and subdir of working dir .
