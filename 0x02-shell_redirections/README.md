@@ -28,5 +28,6 @@ display the newest 10 file in working dir .
 uniq and soted .
 -[X] cat /etc/passwd | grep root
 display lines cntaining root .
--[] cat /etc/passwd | grep bin | wc -l
+-[x] cat /etc/passwd | grep bin | wc -l
 diplay number of lines containing the word bin .
+-[] grep -i "root" -A 3 /etc/passwd
