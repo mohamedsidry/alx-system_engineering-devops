@@ -26,5 +26,7 @@ count all dirs and subdir of working dir .
 display the newest 10 file in working dir .
 -[x] sort | uniq -u
 uniq and soted .
--[] cat /etc/passwd | grep root
+-[X] cat /etc/passwd | grep root
 display lines cntaining root .
+-[] cat /etc/passwd | grep bin | wc -l
+diplay number of lines containing the word bin .
