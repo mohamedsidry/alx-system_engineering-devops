@@ -22,3 +22,5 @@ Create a script that lists all local variables and environment variables, and fu
 create a local variable called BEST .
 -export BEST="School"
 create a global variable called BEST .
+- echo $(($TRUEKNOWLEDGE + 128))
+add value in TRUEKNOWLEDGE variable  to 128  .
