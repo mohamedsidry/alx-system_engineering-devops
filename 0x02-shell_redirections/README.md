@@ -20,5 +20,7 @@ overwrite command to file.
 duplicate the last line of file.
 -[x] find . -type f -name "*.js" -delete
 delete all regular js files .
--[] find . -type d -not -name '.' | wc -l
+-[x] find . -type d -not -name '.' | wc -l
 count all dirs and subdir of working dir .
+-[] ls -f1 | head -n 10
+display the newest 10 file in working dir .
