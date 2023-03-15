@@ -45,5 +45,10 @@ delete C and c
 -[x] rev
 reverse input
 
--[] cut -d ":" -f 1,6 /etc/passwd | sort
+-[x] cut -d ":" -f 1,6 /etc/passwd | sort
 display all users and there home dirs sorted by users
+
+## ADVANCED Tasks
+
+-[] find -empty | rev | cut -d "/" -f 1 | rev
+find empty files/dirs reverse cut from '/' and reverse again 
