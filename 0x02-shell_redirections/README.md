@@ -50,5 +50,8 @@ display all users and there home dirs sorted by users
 
 ## ADVANCED Tasks
 
--[] find -empty | rev | cut -d "/" -f 1 | rev
-find empty files/dirs reverse cut from '/' and reverse again 
+-[x] find -empty | rev | cut -d "/" -f 1 | rev
+find empty files/dirs reverse cut from '/' and reverse again
+
+- [] find -type f -name ".gif" | rev | cut -d "/" -f 1 | cut -d "." -f 2 - | rev |LC_ALL=C sort -f
+find all regulat gif files
