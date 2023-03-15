@@ -43,4 +43,7 @@ translate A to Z and c to e
 delete C and c
 
 -[x] rev
-reverse input 
+reverse input
+
+-[] cut -d ":" -f 1,6 /etc/passwd | sort
+display all users and there home dirs sorted by users
