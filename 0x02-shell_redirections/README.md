@@ -36,5 +36,5 @@ what is next .
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 -[x] grep -i '^[a-z]' /etc/ssh/sshd_config
 letters only please
--[] tr "A" "Z" | "c" "e"
+-[x] tr "A" "Z" |tr "c" "e"
 translate A to Z and c to e
