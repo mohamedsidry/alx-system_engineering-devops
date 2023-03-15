@@ -38,3 +38,7 @@ Display all the lines in the file /etc/passwd that do not contain the pattern â€
 letters only please
 -[x] tr "A" "Z" |tr "c" "e"
 translate A to Z and c to e
+
+-[] tr -d "Cc"
+delete C and c
+
