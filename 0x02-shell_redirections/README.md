@@ -39,6 +39,8 @@ letters only please
 -[x] tr "A" "Z" |tr "c" "e"
 translate A to Z and c to e
 
--[] tr -d "Cc"
+-[x] tr -d "Cc"
 delete C and c
 
+-[x] rev
+reverse input 
