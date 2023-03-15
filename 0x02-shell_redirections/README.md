@@ -53,5 +53,8 @@ display all users and there home dirs sorted by users
 -[x] find -empty | rev | cut -d "/" -f 1 | rev
 find empty files/dirs reverse cut from '/' and reverse again
 
-- [] find -type f -name ".gif" | rev | cut -d "/" -f 1 | cut -d "." -f 2 - | rev |LC_ALL=C sort -f
+- [x] find -type f -name "*.gif" | rev | cut -d "/" -f 1 | cut -d "." -f 2- | rev |LC_ALL=C sort -f
 find all regulat gif files
+
+- [] cut -c 1 | paste -s -d ''
+Acrostic : first letter is the key .
